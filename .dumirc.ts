@@ -14,12 +14,16 @@ export default defineConfig({
       github: 'https://github.com/ZNN-She/blog',
     },
     showLineNum: true,
-    nav: [
-      {
-        title: 'github',
-        link: '/github/github-pages',
-      },
-    ],
+    // nav: [
+    //   {
+    //     title: 'github',
+    //     link: '/github/github-pages',
+    //   },
+    //   {
+    //     title: 'other',
+    //     link: '/other/mysql',
+    //   },
+    // ],
   },
   favicons: ['https://github.githubassets.com/favicons/favicon.png'],
 });
