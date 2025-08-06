@@ -2,7 +2,7 @@
 order: 1
 ---
 
-# github 托管博客
+# github托管博客
 
 ## 设置入口
 1. 登录 github 账号
