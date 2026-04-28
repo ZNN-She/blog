@@ -21,7 +21,7 @@ export default defineConfig({
       },
       {
         title: 'mysql',
-        link: '/other/install-my-sql',
+        link: '/mysql/install-my-sql',
       },
     ],
   },
