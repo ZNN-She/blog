@@ -23,6 +23,10 @@ export default defineConfig({
         title: 'mysql',
         link: '/mysql/install-my-sql',
       },
+      {
+        title: 'docker',
+        link: '/docker',
+      },
     ],
   },
   favicons: ['https://github.githubassets.com/favicons/favicon.png'],
