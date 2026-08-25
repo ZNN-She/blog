@@ -184,5 +184,5 @@ docker logs qbittorrent | grep -i password
 - [vodspider](https://github.com/vodspider/release)
 - [Omnibox 文档](https://omnibox-doc.pages.dev/)
 - [影视资源站](https://www.xn--sss604efuw.com/)
-- Tailscale 内网穿透
+- Tailscale、ZeroTier 内网穿透
 - https://www.cloudflare.com/ 域名托管个人免费
