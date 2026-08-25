@@ -1,0 +1,12 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[254],{85584:function(l,e,_){_.r(e);var o=_(72269),i=_(93359),m=_(61788),E=_(19977),h=_(25809),s=_(90978),x=_(96057),M=_(83213),t=_(53683),u=_(80936),a=_(67294),d=_(78005),n=_(85893);function r(){return(0,n.jsx)(t.dY,{children:(0,n.jsx)(a.Suspense,{fallback:(0,n.jsx)(u.Z,{}),children:(0,n.jsx)(n.Fragment,{children:(0,n.jsxs)("div",{className:"markdown",children:[(0,n.jsxs)("h3",{id:"mcp",children:[(0,n.jsx)("a",{"aria-hidden":"true",tabIndex:"-1",href:"#mcp",children:(0,n.jsx)("span",{className:"icon icon-link"})}),"MCP"]}),(0,n.jsx)(s.Z,{lang:"json",children:d.texts[0].value}),(0,n.jsxs)("h3",{id:"mastergo-mcp-\u914D\u7F6E",children:[(0,n.jsx)("a",{"aria-hidden":"true",tabIndex:"-1",href:"#mastergo-mcp-\u914D\u7F6E",children:(0,n.jsx)("span",{className:"icon icon-link"})}),"MasterGo MCP \u914D\u7F6E"]}),(0,n.jsxs)("p",{children:[d.texts[1].value,(0,n.jsx)("a",{href:"https://article.juejin.cn/post/7490407437071089683%EF%BC%8C%E8%BF%99%E7%AF%87%E6%96%87%E7%AB%A0%E4%B8%AD%E6%8F%90%E5%88%B0%E4%BA%86",children:d.texts[2].value}),d.texts[3].value]})]})})})})}e.default=r},78005:function(l,e,_){_.r(e),_.d(e,{texts:function(){return o}});const o=[{value:`{
+  "mcpServers": {          // \u6838\u5FC3\u8282\u70B9\uFF1A\u5B9A\u4E49\u6240\u6709 MCP \u670D\u52A1\u5668\u7684\u914D\u7F6E\u96C6\u5408
+    "example-server": {    // \u81EA\u5B9A\u4E49\u7684\u670D\u52A1\u5668\u540D\u79F0\uFF08\u552F\u4E00\u6807\u8BC6\uFF09\uFF0C\u53EF\u81EA\u5B9A\u4E49\u547D\u540D
+      "command": "npx",    // \u542F\u52A8 MCP \u670D\u52A1\u5668\u7684\u6838\u5FC3\u547D\u4EE4\uFF08\u5982 node\u3001npx\u3001python \u7B49\uFF09
+      "args": [            // \u547D\u4EE4\u7684\u53C2\u6570\u5217\u8868\uFF0C\u6309\u6267\u884C\u987A\u5E8F\u6392\u5217
+        "-y",              // \u7B2C\u4E00\u4E2A\u53C2\u6570\uFF1Anpx \u7684 -y \u9009\u9879\uFF08\u81EA\u52A8\u786E\u8BA4\u6240\u6709\u63D0\u793A\uFF09
+        "mcp-server-example" // \u7B2C\u4E8C\u4E2A\u53C2\u6570\uFF1A\u8981\u6267\u884C\u7684\u5305\u540D/\u811A\u672C\u540D
+      ]
+    }
+  }
+}
+`,paraId:0,tocIndex:0},{value:"\u53C2\u8003 ",paraId:1,tocIndex:1},{value:"https://article.juejin.cn/post/7490407437071089683\uFF0C\u8FD9\u7BC7\u6587\u7AE0\u4E2D\u63D0\u5230\u4E86",paraId:1,tocIndex:1},{value:" MasterGo MCP \u7EC4\u4EF6\u7684\u6982\u5FF5\uFF0C\u53EF\u4EE5\u6307\u5B9A\u67D0\u4E2A\u5C40\u90E8ui\u4F7F\u7528\u54EA\u4E2A\u7EC4\u4EF6\uFF0C\u5E76\u5207\u53EF\u4EE5\u9644\u4E0A\u7EC4\u4EF6\u6587\u6863\u5730\u5740",paraId:1,tocIndex:1}]}}]);
