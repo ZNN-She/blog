@@ -178,10 +178,11 @@ docker logs qbittorrent | grep -i password
 
 ---
 
-## 影视点播
+## 其他资料
 
 - [PanSou](https://github.com/FongMi/Release)
 - [vodspider](https://github.com/vodspider/release)
 - [Omnibox 文档](https://omnibox-doc.pages.dev/)
 - [影视资源站](https://www.xn--sss604efuw.com/)
 - Tailscale 内网穿透
+- https://www.cloudflare.com/ 域名托管个人免费
